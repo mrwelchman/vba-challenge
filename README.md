@@ -1,5 +1,6 @@
 # vba-challenge
-vba homework assignment
+### Visual Basic for Applications because hey, you never know.
 
 
-Well, here it is. My VBA assignment. I may go back once the Panda assignment is done and do the bonus section, but I want to focus on the Panda homework and not having this submitted was bumming me out.
+
+
