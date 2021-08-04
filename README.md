@@ -3,7 +3,6 @@
 
 
 
-![vba](vba.png)
 
 
 
