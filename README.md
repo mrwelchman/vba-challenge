@@ -6,6 +6,11 @@ Visual Basic for Applications, or VBA, is the programming language that some gen
 
 In this exercise, I was provided with an Excel spreadsheet containing three years worth of stock data. We're talking opening price, closing price, ticker symbol, the whole shebang. Using VBA, I was able to sort the data, manipulate the data, perform a few calculations, and return results based on the dataset. Below are a few screenshots of some of my code and the end results for each year I had data for (2014-2016). Of course, the full code is in this very repository.
 
+#### Tools Used:
+- Excel
+- VBA
+- My vast, deep knowledge of Excel
+
 
 ![vba](vba.png)
 
