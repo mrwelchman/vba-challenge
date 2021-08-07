@@ -1,5 +1,9 @@
 # vba-challenge
-### Visual Basic for Applications because hey, you never know.
+### Visual Basic for Applications because hey, sometimes basic Excel isn't enough.
+
+
+![stocks](stocks.jpeg)
+
 
 
 Visual Basic for Applications, or VBA, is the programming language that some genius at Microsoft came up with for Excel. While not especially common anymore thanks to higher languages like Python, I still feel it's a useful tool to demonstrate.
